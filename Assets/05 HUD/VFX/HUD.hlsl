@@ -52,9 +52,8 @@ void LogoScroller_float
    float2 uv,
    out float output)
 {
-    float t = _Time.y / 8;
-
-    uint idx = ((uint)t) & 3;
+    float t = (_Time.y % (60 * 15)) / 8;
+    uint idx = (uint)t;
 
     float disp = smoothstep(0.8, 1, frac(t));
     disp = smoothstep(0, 1, smoothstep(0, 1, disp));

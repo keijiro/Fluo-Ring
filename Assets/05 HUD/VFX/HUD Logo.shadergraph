@@ -119,7 +119,7 @@
     },
     "m_PreviewData": {
         "serializedMesh": {
-            "m_SerializedMesh": "{\"mesh\":{\"instanceID\":0}}",
+            "m_SerializedMesh": "{\"mesh\":{\"fileID\":10210,\"guid\":\"0000000000000000e000000000000000\",\"type\":0}}",
             "m_Guid": ""
         },
         "preventRotation": false
@@ -269,7 +269,7 @@
     "m_StageCapability": 3,
     "m_BareResource": false,
     "m_Texture": {
-        "m_SerializedTexture": "{\"texture\":{\"fileID\":2800000,\"guid\":\"a75151fc5f5224a54926f4919ae11ae8\",\"type\":3}}",
+        "m_SerializedTexture": "{\"texture\":{\"fileID\":2800000,\"guid\":\"acc2aacdfbc114a51b38627e35bead51\",\"type\":3}}",
         "m_Guid": ""
     },
     "m_DefaultType": 0
@@ -545,7 +545,7 @@
     "m_StageCapability": 3,
     "m_BareResource": false,
     "m_Texture": {
-        "m_SerializedTexture": "{\"texture\":{\"fileID\":2800000,\"guid\":\"2e6c2f099000c4db6b0e81ab29a7b7a5\",\"type\":3}}",
+        "m_SerializedTexture": "{\"texture\":{\"fileID\":2800000,\"guid\":\"acc2aacdfbc114a51b38627e35bead51\",\"type\":3}}",
         "m_Guid": ""
     },
     "m_DefaultType": 0
@@ -639,7 +639,7 @@
     "m_StageCapability": 3,
     "m_BareResource": false,
     "m_Texture": {
-        "m_SerializedTexture": "{\"texture\":{\"fileID\":2800000,\"guid\":\"d879643be3dcc4ec78539599082db4db\",\"type\":3}}",
+        "m_SerializedTexture": "{\"texture\":{\"fileID\":2800000,\"guid\":\"4382f7bb031124eee91cf8cf95217a67\",\"type\":3}}",
         "m_Guid": ""
     },
     "m_DefaultType": 0
@@ -706,7 +706,7 @@
     "m_StageCapability": 3,
     "m_BareResource": false,
     "m_Texture": {
-        "m_SerializedTexture": "{\"texture\":{\"fileID\":2800000,\"guid\":\"42438e495a73a4384a57b59a28049134\",\"type\":3}}",
+        "m_SerializedTexture": "{\"texture\":{\"fileID\":2800000,\"guid\":\"f2869a19ae5224cf398691f09d9f75ad\",\"type\":3}}",
         "m_Guid": ""
     },
     "m_DefaultType": 0

@@ -18,3 +18,5 @@ xcrun stapler staple $APP_DIR
 
 spctl --assess --type execute -vv $APP_DIR
 codesign -dv --verbose=4 $APP_DIR
+
+rm $APP_ZIP

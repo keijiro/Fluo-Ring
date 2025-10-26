@@ -2356,7 +2356,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d089d6f21d1c54409a202d3543abd030, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  <LutBlend>k__BackingField: 1
+  <LutBlend>k__BackingField: 0
   _source: {fileID: 845794253}
   _resources: {fileID: 11400000, guid: 4f9330a89914fac438cb63225f3b6e25, type: 2}
   _lutTexture: {fileID: 8534537815417165676, guid: 244beb38c4aca46d38429ea743939884, type: 3}
@@ -5595,13 +5595,22 @@ MonoBehaviour:
       inWeight: 0.33333334
       outWeight: 0.33333334
     - serializedVersion: 3
-      time: 1
-      value: 0
-      inSlope: -3.2012208
-      outSlope: -3.2012208
+      time: 0.8810778
+      value: 1.3014566
+      inSlope: -4.620246
+      outSlope: -4.620246
       tangentMode: 0
       weightedMode: 0
-      inWeight: 0.064062476
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: -7.8125076
+      outSlope: -7.8125076
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.024999976
       outWeight: 0.33333334
     m_PreInfinity: 2
     m_PostInfinity: 2
